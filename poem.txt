@@ -1,0 +1,5 @@
+You can call the with method on the Endpoint
+to apply a middleware to an endpoint. 
+
+It actually converts the original
+endpoint to a new endpoint.
